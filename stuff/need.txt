@@ -1,0 +1,15 @@
+https://play.cocolani.com/swf-5968/aud/jungle1.mp3 *
+https://play.cocolani.com/swf-5968/aud/jungle2.mp3 *
+https://play.cocolani.com/swf-5968/aud/jungle_path1.mp3 * 
+https://play.cocolani.com/swf-5968/aud/jungle_path2.mp3 *
+https://play.cocolani.com/swf-5968/aud/jungle_path3.mp3 *
+https://play.cocolani.com/swf-5968/aud/jungle_path4.mp3 
+https://play.cocolani.com/swf-5968/aud/jungle_path5.mp3 *
+https://play.cocolani.com/swf-5968/aud/jungle_path6.mp3 *
+https://play.cocolani.com/swf-5968/aud/soundCaveRandom.mp3 *
+https://play.cocolani.com/swf-5968/aud/soundCaveRandom2.mp3 *
+
+
+https://play.cocolani.com/xml/jungle_templeexplorer_l0.xml *
+https://play.cocolani.com/xml/jungle_templeexplorer_l1.xml *
+

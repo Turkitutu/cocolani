@@ -1,0 +1,335 @@
+{
+    1:{
+       "rid": 1,
+       "desc": ["Leaf 1", "Leaf 1"],
+       "label": ["Leaf", "Leaf"],
+       "type": 0,
+       "transfer": 0,
+       "subtype": 0,
+       "data": 0
+    },
+    2:{
+       "rid": 1,
+       "desc": ["Leaf 2", "Leaf 2"],
+       "label": ["Leaf", "Leaf"],
+       "type": 0,
+       "transfer": 0,
+       "subtype": 0,
+       "data": 0
+    },
+    3:{
+       "rid": 2,
+       "desc": ["Coconut", "Coconut"],
+       "label": ["Coconut", "Coconut"],
+       "type": 0,
+       "transfer": 0,
+       "subtype": 0,
+       "data": 0
+    },
+    4:{
+       "rid": 3,
+       "desc": ["Banana peel", "Banana peel"],
+       "label": ["Banana peel", "Banana peel"],
+       "type": 0,
+       "transfer": 0,
+       "subtype": 0,
+       "data": 0
+    },
+    5:{
+       "rid": 4,
+       "desc": ["unknown1", "unknown1"],
+       "label": ["unknown1", "unknown1"],
+       "type": 0,
+       "transfer": 0,
+       "subtype": 0,
+       "data": 0
+    },
+    6:{
+       "rid": 5,
+       "desc": ["Berry", "Berry"],
+       "label": ["Berry", "Berry"],
+       "type": 0,
+       "transfer": 0,
+       "subtype": 0,
+       "data": 0
+    },
+    7:{
+       "rid": 6,
+       "desc": ["Feather", "Feather"],
+       "label": ["Feather", "Feather"],
+       "type": 0,
+       "transfer": 0,
+       "subtype": 0,
+       "data": 0
+    },
+    8:{
+       "rid": 7,
+       "desc": ["Flower", "Flower"],
+       "label": ["Flower", "Flower"],
+       "type": 0,
+       "transfer": 0,
+       "subtype": 0,
+       "data": 0
+    },
+    9:{
+       "rid": 8,
+       "desc": ["Rusty Nail", "Rusty Nail"],
+       "label": ["Nail", "Nail"],
+       "type": 0,
+       "transfer": 0,
+       "subtype": 0,
+       "data": 0
+    },
+    10:{
+       "rid": 9,
+       "desc": ["Nail", "Nail"],
+       "label": ["Nail", "Nail"],
+       "type": 0,
+       "transfer": 0,
+       "subtype": 0,
+       "data": 0
+    },
+    11:{
+       "rid": 10,
+       "desc": ["Cart Wheel", "Cart Wheel"],
+       "label": ["Wheel", "Wheel"],
+       "type": 0,
+       "transfer": 0,
+       "subtype": 0,
+       "data": 0
+    },
+    12:{
+       "rid": 11,
+       "desc": ["Drill Bit", "Drill Bit"],
+       "label": ["Drill Bit", "Drill Bit"],
+       "type": 0,
+       "transfer": 0,
+       "subtype": 0,
+       "data": 0
+    },
+    13:{
+       "rid": 12,
+       "desc": ["Wrench", "Wrench"],
+       "label": ["Wrench", "Wrench"],
+       "type": 0,
+       "transfer": 0,
+       "subtype": 0,
+       "data": 0
+    },
+    14:{
+       "rid": 13,
+       "desc": ["Bolt", "Bolt"],
+       "label": ["Bolt", "Bolt"],
+       "type": 0,
+       "transfer": 0,
+       "subtype": 0,
+       "data": 0
+    },
+    15:{
+       "rid": 14,
+       "desc": ["Glue", "Glue"],
+       "label": ["Glue", "Glue"],
+       "type": 0,
+       "transfer": 0,
+       "subtype": 0,
+       "data": 0
+    },
+    16:{
+       "rid": 15,
+       "desc": ["Steel Bar", "Steel Bar"],
+       "label": ["Steel Bar", "Steel Bar"],
+       "type": 0,
+       "transfer": 0,
+       "subtype": 0,
+       "data": 0
+    },
+    17:{
+       "rid": 16,
+       "desc": ["Fury Rock", "Fury Rock"],
+       "label": ["Fury Rock", "Fury Rock"],
+       "type": 0,
+       "transfer": 0,
+       "subtype": 0,
+       "data": 0
+    },
+    18:{
+       "rid": 17,
+       "desc": ["unknown2", "unknown2"],
+       "label": ["unknown2", "unknown2"],
+       "type": 0,
+       "transfer": 0,
+       "subtype": 0,
+       "data": 0
+    },
+    19:{
+       "rid": 18,
+       "desc": ["unknown3", "unknown3"],
+       "label": ["unknown3", "unknown3"],
+       "type": 0,
+       "transfer": 0,
+       "subtype": 0,
+       "data": 0
+    },
+    42:{
+       "rid": 26,
+       "desc": ["Rock fragment", "Rock fragment"],
+       "label": ["Rock fragment", "Rock fragment"],
+       "type": 0,
+       "transfer": 0,
+       "subtype": 0,
+       "data": 0
+    },
+    43:{
+       "rid": 27,
+       "desc": ["Rock fragment", "Rock fragment"],
+       "label": ["Rock fragment", "Rock fragment"],
+       "type": 0,
+       "transfer": 0,
+       "subtype": 0,
+       "data": 0
+    },
+    44:{
+       "rid": 28,
+       "desc": ["Rock fragment", "Rock fragment"],
+       "label": ["Rock fragment", "Rock fragment"],
+       "type": 0,
+       "transfer": 0,
+       "subtype": 0,
+       "data": 0
+    },
+    45:{
+       "rid": 29,
+       "desc": ["Rock fragment", "Rock fragment"],
+       "label": ["Rock fragment", "Rock fragment"],
+       "type": 0,
+       "transfer": 0,
+       "subtype": 0,
+       "data": 0
+    },
+    46:{
+       "rid": 30,
+       "desc": ["Rock fragment", "Rock fragment"],
+       "label": ["Rock fragment", "Rock fragment"],
+       "type": 0,
+       "transfer": 0,
+       "subtype": 0,
+       "data": 0
+    },
+    47:{
+       "rid": 31,
+       "desc": ["Rock fragment", "Rock fragment"],
+       "label": ["Rock fragment", "Rock fragment"],
+       "type": 0,
+       "transfer": 0,
+       "subtype": 0,
+       "data": 0
+    },
+    48:{
+       "rid": 32,
+       "desc": ["Wooden stick", "Wooden stick"],
+       "label": ["Wooden stick", "Wooden stick"],
+       "type": 0,
+       "transfer": 0,
+       "subtype": 0,
+       "data": 0
+    },
+    49:{
+       "rid": 33,
+       "desc": ["Rope", "Rope"],
+       "label": ["Rope", "Rope"],
+       "type": 0,
+       "transfer": 0,
+       "subtype": 0,
+       "data": 0
+    },
+    50:{
+       "rid": 34,
+       "desc": ["Cloth", "Cloth"],
+       "label": ["Cloth", "Cloth"],
+       "type": 0,
+       "transfer": 0,
+       "subtype": 0,
+       "data": 0
+    },
+    51:{
+       "rid": 35,
+       "desc": ["Fuel", "Fuel"],
+       "label": ["Fuel", "Fuel"],
+       "type": 0,
+       "transfer": 0,
+       "subtype": 0,
+       "data": 0
+    },
+    53:{
+       "rid": 36,
+       "desc": ["Banana", "Banana"],
+       "label": ["Banana", "Banana"],
+       "type": 0,
+       "transfer": 0,
+       "subtype": 0,
+       "data": 0
+    },
+    54:{
+       "rid": 36,
+       "desc": ["Banana", "Banana"],
+       "label": ["Banana", "Banana"],
+       "type": 0,
+       "transfer": 0,
+       "subtype": 0,
+       "data": 0
+    },
+    55:{
+       "rid": 36,
+       "desc": ["Banana", "Banana"],
+       "label": ["Banana", "Banana"],
+       "type": 0,
+       "transfer": 0,
+       "subtype": 0,
+       "data": 0
+    },
+    56:{
+       "rid": 36,
+       "desc": ["Banana", "Banana"],
+       "label": ["Banana", "Banana"],
+       "type": 0,
+       "transfer": 0,
+       "subtype": 0,
+       "data": 0
+    },
+    57:{
+       "rid": 37,
+       "desc": ["unknown4", "unknown4"],
+       "label": ["unknown4", "unknown4"],
+       "type": 0,
+       "transfer": 0,
+       "subtype": 0,
+       "data": 0
+    },
+    58:{
+       "rid": 38,
+       "desc": ["unknown5", "unknown5"],
+       "label": ["unknown5", "unknown5"],
+       "type": 0,
+       "transfer": 0,
+       "subtype": 0,
+       "data": 0
+    },
+    59:{
+       "rid": 39,
+       "desc": ["Green monkey gem", "Green monkey gem"],
+       "label": ["Green monkey gem", "Green monkey gem"],
+       "type": 0,
+       "transfer": 0,
+       "subtype": 0,
+       "data": 0
+    },
+    60:{
+       "rid": 41,
+       "desc": ["Lever", "Lever"],
+       "label": ["Lever", "Lever"],
+       "type": 0,
+       "transfer": 0,
+       "subtype": 0,
+       "data": 0
+    }
+}

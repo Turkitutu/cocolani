@@ -1,0 +1,7 @@
+{
+    "welcome_message": [
+        "Welcome to Cocolani Island!\n\nPlease do not cheat or hack, and be nice!",
+         "!مرحبا بك في جزر كوكولاني\n\n!من فضلك لا تغش أو تستخدم برامج القرصنة، و كن لطيفا"
+    ],
+    "levels": [20, 50, 100, 300, 800, 1800, 3000, 4400, 6000, 7800, 9800, 12000, 14400, 17000]
+}

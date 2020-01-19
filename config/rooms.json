@@ -1,0 +1,472 @@
+{
+    "1":{
+        "name":{
+            "EN":"Welcome",
+            "AR":"Welcome"
+        },
+        "tribe":0,
+        "maxPlayers":200,
+        "maxSpectators":0
+    },
+    "2":{
+        "name":{
+            "EN":"Jungle",
+            "AR":"Jungle"
+        },
+        "tribe":1,
+        "maxPlayers":50,
+        "maxSpectators":0
+    },
+    "3":{
+        "name":{
+            "EN":"Jungle Room 2",
+            "AR":"Jungle Room 2"
+        },
+        "tribe":1,
+        "maxPlayers":50,
+        "maxSpectators":0,
+        "stats": {"stat1":1, "stat2":1, "stat3":1, "stat4":1, "door":0}
+    },
+    "4":{
+        "name":{
+            "EN":"Jungle Bridge",
+            "AR":"Jungle Bridge"
+        },
+        "tribe":1,
+        "maxPlayers":50,
+        "maxSpectators":0
+    },
+    "5":{
+        "name":{
+            "EN":"Jungle Temple",
+            "AR":"Jungle Temple"
+        },
+        "tribe":1,
+        "maxPlayers":50,
+        "maxSpectators":0,
+        "stats": {"door":0}
+    },
+    "6":{
+        "name":{
+            "EN":"Jungle Corridor 1",
+            "AR":"Jungle Corridor 1"
+        },
+        "tribe":1,
+        "maxPlayers":50,
+        "maxSpectators":0
+    },
+    "7":{
+        "name":{
+            "EN":"Jungle Corridor 2",
+            "AR":"Jungle Corridor 2"
+        },
+        "tribe":1,
+        "maxPlayers":50,
+        "maxSpectators":0
+    },
+    "8":{
+        "name":{
+            "EN":"Jungle Centre",
+            "AR":"Jungle Centre"
+        },
+        "tribe":1,
+        "maxPlayers":50,
+        "maxSpectators":0
+    },
+    "9":{
+        "name":{
+            "EN":"Jungle Furniture",
+            "AR":"Jungle Furniture"
+        },
+        "tribe":1,
+        "maxPlayers":50,
+        "maxSpectators":0
+    },
+    "10":{
+        "name":{
+            "EN":"GamesRoom",
+            "AR":"GamesRoom"
+        },
+        "tribe":1,
+        "maxPlayers":5000,
+        "maxSpectators":0
+    },
+    "11":{
+        "name":{
+            "EN":"Jungle Pathway 1",
+            "AR":"Jungle Pathway 1"
+        },
+        "tribe":1,
+        "maxPlayers":50,
+        "maxSpectators":0
+    },
+    "12":{
+        "name":{
+            "EN":"Jungle Pathway 2",
+            "AR":"Jungle Pathway 2"
+        },
+        "tribe":1,
+        "maxPlayers":50,
+        "maxSpectators":0
+    },
+    "13":{
+        "name":{
+            "EN":"Jungle Swimming",
+            "AR":"Jungle Swimming"
+        },
+        "tribe":1,
+        "maxPlayers":50,
+        "maxSpectators":0
+    },
+    "14":{
+        "name":{
+            "EN":"Volcano Bridge",
+            "AR":"Volcano Bridge"
+        },
+        "tribe":2,
+        "maxPlayers":50,
+        "maxSpectators":0
+    },
+    "15":{
+        "name":{
+            "EN":"Volcano Centre",
+            "AR":"Volcano Centre"
+        },
+        "tribe":2,
+        "maxPlayers":50,
+        "maxSpectators":0
+    },
+    "16":{
+        "name":{
+            "EN":"Volcano Pathway 1",
+            "AR":"Volcano Pathway 1"
+        },
+        "tribe":2,
+        "maxPlayers":50,
+        "maxSpectators":0
+    },
+    "17":{
+        "name":{
+            "EN":"Volcano Pathway 2",
+            "AR":"Volcano Pathway 2"
+        },
+        "tribe":2,
+        "maxPlayers":50,
+        "maxSpectators":0
+    },
+    "18":{
+        "name":{
+            "EN":"Transition",
+            "AR":"Transition"
+        },
+        "tribe":2,
+        "maxPlayers":5000,
+        "maxSpectators":0
+    },
+    "19":{
+        "name":{
+            "EN":"Volcano Leisure",
+            "AR":"Volcano Leisure"
+        },
+        "tribe":2,
+        "maxPlayers":50,
+        "maxSpectators":0
+    },
+    "20":{
+        "name":{
+            "EN":"Volcano Junkyard 1",
+            "AR":"Volcano Junkyard 1"
+        },
+        "tribe":2,
+        "maxPlayers":50,
+        "maxSpectators":0
+    },
+    "21":{
+        "name":{
+            "EN":"Volcano Junkyard 2",
+            "AR":"Volcano Junkyard 2"
+        },
+        "tribe":2,
+        "maxPlayers":50,
+        "maxSpectators":0
+    },
+    "22":{
+        "name":{
+            "EN":"Volcano Tunnel 1",
+            "AR":"Volcano Tunnel 1"
+        },
+        "tribe":2,
+        "maxPlayers":50,
+        "maxSpectators":0
+    },
+    "23":{
+        "name":{
+            "EN":"Volcano Tunnel 2",
+            "AR":"Volcano Tunnel 2"
+        },
+        "tribe":2,
+        "maxPlayers":50,
+        "maxSpectators":0
+    },
+    "24":{
+        "name":{
+            "EN":"Volcano Tunnel 3",
+            "AR":"Volcano Tunnel 3"
+        },
+        "tribe":2,
+        "maxPlayers":50,
+        "maxSpectators":0
+    },
+    "25":{
+        "name":{
+            "EN":"Volcano Tunnel 4",
+            "AR":"Volcano Tunnel 4"
+        },
+        "tribe":2,
+        "maxPlayers":50,
+        "maxSpectators":0
+    },
+    "26":{
+        "name":{
+            "EN":"Volcano Tunnel 5",
+            "AR":"Volcano Tunnel 5"
+        },
+        "tribe":2,
+        "maxPlayers":50,
+        "maxSpectators":0
+    },
+    "27":{
+        "name":{
+            "EN":"Volcano Temple 1",
+            "AR":"Volcano Temple 1"
+        },
+        "tribe":2,
+        "maxPlayers":50,
+        "maxSpectators":0
+    },
+    "28":{
+        "name":{
+            "EN":"Volcano Temple 2",
+            "AR":"Volcano Temple 2"
+        },
+        "tribe":2,
+        "maxPlayers":50,
+        "maxSpectators":0
+    },
+    "29":{
+        "name":{
+            "EN":"Volcano Mountain 1",
+            "AR":"Volcano Mountain 1"
+        },
+        "tribe":2,
+        "maxPlayers":50,
+        "maxSpectators":0
+    },
+    "30":{
+        "name":{
+            "EN":"Volcano Mountain 2",
+            "AR":"Volcano Mountain 2"
+        },
+        "tribe":2,
+        "maxPlayers":50,
+        "maxSpectators":0
+    },
+    "31":{
+        "name":{
+            "EN":"Volcano Mountain 3",
+            "AR":"Volcano Mountain 3"
+        },
+        "tribe":2,
+        "maxPlayers":50,
+        "maxSpectators":0
+    },
+    "32":{
+        "name":{
+            "EN":"Volcano Mountain 4",
+            "AR":"Volcano Mountain 4"
+        },
+        "tribe":2,
+        "maxPlayers":50,
+        "maxSpectators":0
+    },
+    "33":{
+        "name":{
+            "EN":"Volcano Mountain 5",
+            "AR":"Volcano Mountain 5"
+        },
+        "tribe":2,
+        "maxPlayers":50,
+        "maxSpectators":0
+    },
+    "34":{
+        "name":{
+            "EN":"Battle Zone1",
+            "AR":"Battle Zone1"
+        },
+        "tribe":0,
+        "maxPlayers":50,
+        "maxSpectators":0
+    },
+    "35":{
+        "name":{
+            "EN":"Volcano Furniture",
+            "AR":"Volcano Furniture"
+        },
+        "tribe":2,
+        "maxPlayers":50,
+        "maxSpectators":0
+    },
+    "36":{
+        "name":{
+            "EN":"Tutorial Island1",
+            "AR":"Tutorial Island1"
+        },
+        "tribe":2,
+        "maxPlayers":150,
+        "maxSpectators":0
+    },
+    "37":{
+        "name":{
+            "EN":"Summer Beach",
+            "AR":"Summer Beach"
+        },
+        "tribe":0,
+        "maxPlayers":150,
+        "maxSpectators":0
+    },
+    "38":{
+        "name":{
+            "EN":"Marbles Game",
+            "AR":"Marbles Game"
+        },
+        "tribe":0,
+        "maxPlayers":1000,
+        "maxSpectators":0
+    },
+    "39":{
+        "name":{
+            "EN":"Backgammon Room",
+            "AR":"Backgammon Room"
+        },
+        "tribe":0,
+        "maxPlayers":1000,
+        "maxSpectators":0
+    },
+    "40":{
+        "name":{
+            "EN":"Tutorial Island5",
+            "AR":"Tutorial Island5"
+        },
+        "tribe":0,
+        "maxPlayers":150,
+        "maxSpectators":0
+    },
+    "41":{
+        "name":{
+            "EN":"Jungle Pathway 3",
+            "AR":"Jungle Pathway 3"
+        },
+        "tribe":1,
+        "maxPlayers":150,
+        "maxSpectators":0
+    },
+    "42":{
+        "name":{
+            "EN":"Jungle Pathway 4",
+            "AR":"Jungle Pathway 4"
+        },
+        "tribe":1,
+        "maxPlayers":150,
+        "maxSpectators":0
+    },
+    "43":{
+        "name":{
+            "EN":"Jungle Pathway 5",
+            "AR":"Jungle Pathway 5"
+        },
+        "tribe":1,
+        "maxPlayers":150,
+        "maxSpectators":0
+    },
+    "44":{
+        "name":{
+            "EN":"Jungle Pathway 6",
+            "AR":"Jungle Pathway 6"
+        },
+        "tribe":1,
+        "maxPlayers":150,
+        "maxSpectators":0
+    },
+    "45":{
+        "name":{
+            "EN":"Jungle Pathway 7",
+            "AR":"Jungle Pathway 7"
+        },
+        "tribe":1,
+        "maxPlayers":150,
+        "maxSpectators":0
+    },
+    "46":{
+        "name":{
+            "EN":"Jungle Turn",
+            "AR":"Jungle Turn"
+        },
+        "tribe":1,
+        "maxPlayers":150,
+        "maxSpectators":0
+    },
+    "47":{
+        "name":{
+            "EN":"Jungle Lighthouse",
+            "AR":"Jungle Lighthouse"
+        },
+        "tribe":1,
+        "maxPlayers":150,
+        "maxSpectators":0
+    },
+    "48":{
+        "name":{
+            "EN":"Jungle Corridor 4",
+            "AR":"Jungle Corridor 4"
+        },
+        "tribe":1,
+        "maxPlayers":150,
+        "maxSpectators":0
+    },
+    "49":{
+        "name":{
+            "EN":"Jungle Corridor 3",
+            "AR":"Jungle Corridor 3"
+        },
+        "tribe":1,
+        "maxPlayers":150,
+        "maxSpectators":0
+    },
+    "50":{
+        "name":{
+            "EN":"Jungle Spare 1",
+            "AR":"Jungle Spare 1"
+        },
+        "tribe":1,
+        "maxPlayers":150,
+        "maxSpectators":0
+    },
+    "51":{
+        "name":{
+            "EN":"Test Sandbox",
+            "AR":"Test Sandbox"
+        },
+        "tribe":0,
+        "maxPlayers":150,
+        "maxSpectators":0
+    },
+    "52":{
+        "name":{
+            "EN":"Jungle Leisure Outlet",
+            "AR":"Jungle Leisure Outlet"
+        },
+        "tribe":1,
+        "maxPlayers":150,
+        "maxSpectators":0
+    }
+}
